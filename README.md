@@ -45,11 +45,9 @@ root.render(
   - src
     - components
       - auth
-        - Auth.jsx
-        - signup
-          - Signup.jsx
-        - login
-          - Login.jsx
+      - movie
+        - MovieIndex.jsx
+        - MovieCreate.jsx
     - `App.jsx`
     - [App.css](./src/App.css) (provided code)
 
