@@ -6,7 +6,9 @@ There are two different branches associated with this lesson.
   - This branch includes all the added notes for you to review and compare with your own code-along.
 
 ### Topics Covered
-- 
+- Movie Index
+- Movie Create
+- Using environment variables
 
 ### What Should Already Be Understood
 - Creating a React Application
@@ -34,7 +36,10 @@ root.render(
     </BrowserRouter>  // <-- ADDED
   </React.StrictMode>
 );
-``` 
+```
+
+**Running:**
+- You will need to start up **MongoDB** and your **Movie Server**. Navigate to your server project within the terminal and run `nodemon` or `npm start` and have your server going while building the Movie application.
 
 - movies
   - src
