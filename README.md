@@ -66,4 +66,3 @@ root.render(
 - [useEffect Hook](https://reactjs.org/docs/hooks-effect.html)
 - [Explanation of useEffect](https://dmitripavlutin.com/react-useeffect-explanation/)
 
-# Challenge
