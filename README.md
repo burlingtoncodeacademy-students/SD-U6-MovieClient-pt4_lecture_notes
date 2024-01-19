@@ -45,11 +45,9 @@ root.render(
   - src
     - components
       - auth
-        - Auth.jsx
-        - signup
-          - Signup.jsx
-        - login
-          - Login.jsx
+      - movie
+        - MovieIndex.jsx
+        - MovieCreate.jsx
     - `App.jsx`
     - [App.css](./src/App.css) (provided code)
 
@@ -68,4 +66,3 @@ root.render(
 - [useEffect Hook](https://reactjs.org/docs/hooks-effect.html)
 - [Explanation of useEffect](https://dmitripavlutin.com/react-useeffect-explanation/)
 
-# Challenge
